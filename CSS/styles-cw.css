@@ -1,0 +1,17 @@
+* {
+    background-color: silver;
+  }
+
+  .subsection.description {
+    color:aquamarine;
+  }
+
+  .subsection.ingredients,
+  .subsection.steps {
+    color:aliceblue;
+  }
+
+  .list.ingredients,
+  .list.steps {
+    color:bisque;
+  }

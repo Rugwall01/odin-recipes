@@ -1,0 +1,15 @@
+* {
+    background-color: red;
+  }
+  
+ 
+  
+  h3 { 
+    color: rgb(247, 242, 242);
+  }
+  p,
+  ul li, 
+  ol li {
+    color: blue;
+  }
+   
