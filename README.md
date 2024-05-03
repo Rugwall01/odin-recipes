@@ -1,1 +1,1 @@
-odin-recipies project, website linking to recipies in list
+odin-recipes project, website linking to recipies in list
